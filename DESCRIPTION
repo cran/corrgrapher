@@ -2,7 +2,7 @@ Package: corrgrapher
 Type: Package
 Title: Explore Correlations Between Variables in a Machine Learning
         Model
-Version: 1.0.2
+Version: 1.0.3
 Encoding: UTF-8
 Authors@R: c(person("Pawel", 
                     "Morgen", 
@@ -20,17 +20,16 @@ Description: When exploring data or models we often examine variables one by one
   The package 'corrgrapher' is a part of the 'DrWhy.AI' universe.
 License: GPL (>= 2)
 Depends: R (>= 3.5.0)
-Imports: visNetwork, DALEX, ingredients, htmltools, jsonlite, ggplot2,
-        knitr
-Suggests: rmarkdown, testthat, gbm, ranger, spelling, covr
-RoxygenNote: 7.1.0
+Imports: visNetwork, ingredients, htmltools, jsonlite, ggplot2, knitr
+Suggests: rmarkdown, testthat, DALEX, gbm, ranger, spelling, covr
+RoxygenNote: 7.1.1
 URL: https://modeloriented.github.io/corrgrapher/,
         https://github.com/ModelOriented/corrgrapher
 BugReports: https://github.com/ModelOriented/corrgrapher/issues
 Language: en-US
 NeedsCompilation: no
-Packaged: 2020-05-29 14:41:23 UTC; mrdomani
+Packaged: 2020-10-12 13:01:32 UTC; mrdomani
 Author: Pawel Morgen [aut, cre],
   Przemyslaw Biecek [aut]
 Repository: CRAN
-Date/Publication: 2020-06-04 09:30:05 UTC
+Date/Publication: 2020-10-12 14:40:02 UTC

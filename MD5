@@ -1,6 +1,6 @@
-f4ce2d4630cba1a386f011e9063530a9 *DESCRIPTION
+bc340d5e7c0527696a6737baa9c8e000 *DESCRIPTION
 607a784c031e3e23fb338c8c0f7cd947 *NAMESPACE
-74ef03ad983d8677b3e4c0109f3366c7 *NEWS.md
+a9e472146a50e188554eb90642b67aed *NEWS.md
 292ef78662531d4e8d34636a9b6f5b0b *R/calculate_cors.R
 304a9aaf1026e4d58846b200b9ad5e88 *R/checks_processes.R
 4a72df85d871b0dd2a292823a9d5155e *R/corrgrapher.R
@@ -24,7 +24,7 @@ a1d902e57cf29bcc016c5adce085e424 *man/corrgrapher.Rd
 5125c7917de8afa166f1a6067f2bd547 *man/save_to_html.Rd
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
 f7132a10e77ba1587f15da849725c8d4 *tests/testthat.R
-0e271df13d93b528c2a329f2cf8c8382 *tests/testthat/setup.R
+433181615b0889425cc9de6d3f920727 *tests/testthat/setup.R
 9257538a1d2b079655ec6121a9b92d14 *tests/testthat/test_calculate_cor.R
 746d7896828295fcd28bb97d4bd957c5 *tests/testthat/test_checks&processes.R
 8705600604b92912fb5ead0a8546c8f6 *tests/testthat/test_corrgrapher.R
